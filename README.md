@@ -5,9 +5,11 @@
 - 📫 How to reach me ... https://www.linkedin.com/in/michael-champenois-4812536b/
 
 Repositories by category:
-- C++: SCC-Queries
-- FamilyMap: FamilyMap
-- Several Vue projects.
+- C++: SCC-Queries, 
+  https://github.com/MichaelCh-svg/SCC-Queries
+- FamilyMap: FamilyMap,
+  https://github.com/MichaelCh-svg/FamilyMap
+- Several Vue projects based on topics of my own choice.
 
 <!---
 MichaelCh-svg/MichaelCh-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
