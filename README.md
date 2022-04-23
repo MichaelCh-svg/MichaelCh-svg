@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Michael-svg.
-- 👀 I’m interested in completing services through cybersecurity, testing, and resolving compatibility issues.
+- 👀 Special interests: cybersecurity, testing, scripting
+    
+ Why: these give the service a sense of completion
 - 🌱 I’m currently learning about cybersecurity, and will learn more about cybersecurity, as well as DevOps, Operating Systems, scripting, and Computer Networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/michael-champenois/
