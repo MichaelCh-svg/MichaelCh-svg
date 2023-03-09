@@ -7,7 +7,7 @@
 - 📫 How to reach me ... https://www.linkedin.com/in/michael-champenois/
 
 Categories:
-- Several Vue projects based on topics of my own choice.
+- Several simple Vue projects based on topics of my own choice.
 
 <!---
 MichaelCh-svg/MichaelCh-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
